@@ -7,7 +7,7 @@
 	* 16GB DDR4 3500mhz
 	
 	
-## What work?
+## What works?
 Everything except sleep mode, it seems good to me :)
   
 **Note:**
