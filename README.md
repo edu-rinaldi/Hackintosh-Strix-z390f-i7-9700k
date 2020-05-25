@@ -5,6 +5,10 @@
 	* Intel core i7-9700k
 	* iGpu
 	* 16GB DDR4 3500mhz
+	
+	
+## What work?
+Everything except sleep mode, it seems good to me :)
   
 **Note:**
 If you have the same config just copy paste Efi folder (If it does not boot try to regenerate SSDTTime)
